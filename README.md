@@ -1,0 +1,1 @@
+This is a linked list program made in Ruby. The project is one of the Ruby coding assignments in the Odin Project.
